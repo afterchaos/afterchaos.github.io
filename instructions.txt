@@ -1,0 +1,8 @@
+Large files/commit
+
+lfs is installed for gifs
+https://git-lfs.github.com/
+
+git add ./works/becomersv2/*.gif
+git commit -m "100 gifs"
+git push origin master
